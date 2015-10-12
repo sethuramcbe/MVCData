@@ -1,0 +1,9 @@
+D:\TeamcitycodeCheckins\WorkCode\MyMVP\MyMVP\bin\Debug\MyMVP.exe.config
+D:\TeamcitycodeCheckins\WorkCode\MyMVP\MyMVP\bin\Debug\MyMVP.exe
+D:\TeamcitycodeCheckins\WorkCode\MyMVP\MyMVP\bin\Debug\MyMVP.pdb
+D:\TeamcitycodeCheckins\WorkCode\MyMVP\MyMVP\obj\Debug\MyMVP.csprojResolveAssemblyReference.cache
+D:\TeamcitycodeCheckins\WorkCode\MyMVP\MyMVP\obj\Debug\MyMVP.Form1.resources
+D:\TeamcitycodeCheckins\WorkCode\MyMVP\MyMVP\obj\Debug\MyMVP.Properties.Resources.resources
+D:\TeamcitycodeCheckins\WorkCode\MyMVP\MyMVP\obj\Debug\MyMVP.csproj.GenerateResource.Cache
+D:\TeamcitycodeCheckins\WorkCode\MyMVP\MyMVP\obj\Debug\MyMVP.exe
+D:\TeamcitycodeCheckins\WorkCode\MyMVP\MyMVP\obj\Debug\MyMVP.pdb
