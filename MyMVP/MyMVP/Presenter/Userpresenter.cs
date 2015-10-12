@@ -6,11 +6,14 @@ using System.Threading.Tasks;
 
 namespace MyMVP.Presenter
 {
+  using System.Diagnostics.CodeAnalysis;
+
   public class Userpresenter
   {
     /// <summary>
     /// The m_view.
     /// </summary>
+    [SuppressMessage("StyleCop.CSharp.NamingRules", "SA1308:VariableNamesMustNotBePrefixed", Justification = "Reviewed. Suppression is OK here.")]
     private IUserView m_view;
 
     /// <summary>
